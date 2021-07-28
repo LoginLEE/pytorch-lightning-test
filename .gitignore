@@ -5,3 +5,5 @@
 /test_GAN/MNIST
 /test_GAN/lightning_logs
 /test_GAN/.ipynb_checkpoints
+/test_MNIST_val/data
+/test_MNIST_val/lightning_logs

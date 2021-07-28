@@ -1,0 +1,1 @@
+tensorboard --log_dir=lightning_logs
