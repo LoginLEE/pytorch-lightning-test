@@ -2,3 +2,6 @@
 /test_MNIST/MNIST
 /test_MNIST/lightning_logs
 /test_MNIST/.ipynb_checkpoints
+/test_GAN/MNIST
+/test_GAN/lightning_logs
+/test_GAN/.ipynb_checkpoints
