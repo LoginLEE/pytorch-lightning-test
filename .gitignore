@@ -1,4 +1,4 @@
 
-/MNIST
-/lightning_logs
-/.ipynb_checkpoints
+/test_MNIST/MNIST
+/test_MNIST/lightning_logs
+/test_MNIST/.ipynb_checkpoints
