@@ -11,3 +11,9 @@ test_CIFAR10/cifar-10-batches-py
 test_CIFAR10/lightning_logs
 test_CIFAR10/.ipynb_checkpoints
 test_CIFAR10/cifar-10-python.tar.gz
+test_CIFAR10_aug/cifar-10-batches-py
+test_CIFAR10_aug/.ipynb_checkpoints
+test_CIFAR10_aug/logs
+test_CIFAR10_aug/cifar-10-python.tar.gz
+.ipynb_checkpoints
+test_transformer_finetune/lightning_logs
